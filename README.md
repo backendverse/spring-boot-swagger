@@ -1,4 +1,4 @@
-# Spring Boot Swagger 🚀 | REST API Documentation & Testing in Hindi 🌿
+# Spring Boot Swagger 🚀 | Auto REST API Docs + Testing UI Explained 🌿 (Hindi Tutorial)
 
 Welcome to **[Backend Verse](https://www.youtube.com/@BackendVerse)**! 🎥  
 In this tutorial, we dive into **Swagger (OpenAPI)** integration in Spring Boot.  
@@ -11,7 +11,7 @@ It helps you **auto-generate API documentation** and provides an **interactive U
 
 ## ▶ Watch the Tutorial
 
-📺 **[Spring Boot Swagger 🚀 | REST API Documentation & Testing in Hindi 🌿](abc)**
+📺 **[Spring Boot Swagger 🚀 | Auto REST API Docs + Testing UI Explained 🌿 (Hindi Tutorial)](https://youtu.be/L0IFPa0P6cs)**
 
 ---
 
